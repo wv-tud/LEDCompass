@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "LEDCompass.ino",
+    "port": "/dev/cu.wchusbserial14130"
+}
