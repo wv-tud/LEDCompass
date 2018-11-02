@@ -1,0 +1,18 @@
+[submodule "src/Adafruit_NeoPixel"]
+	path = src/Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel
+[submodule "src/i2cdevlib"]
+	path = src/i2cdevlib
+	url = https://github.com/jrowberg/i2cdevlib
+[submodule "src/AltSoftSerial"]
+	path = src/AltSoftSerial
+	url = https://github.com/PaulStoffregen/AltSoftSerial
+[submodule "src/Adafruit_Sensor"]
+	path = src/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor
+[submodule "src/Adafruit_HMC5883_Unified"]
+	path = src/Adafruit_HMC5883_Unified
+	url = https://github.com/adafruit/Adafruit_HMC5883_Unified
+[submodule "src/NeoGPS"]
+	path = src/NeoGPS
+	url = https://github.com/SlashDevin/NeoGPS/
