@@ -16,3 +16,6 @@
 [submodule "src/NeoGPS"]
 	path = src/NeoGPS
 	url = https://github.com/SlashDevin/NeoGPS/
+[submodule "src/TRICAL"]
+	path = src/TRICAL
+	url = https://github.com/wv-tud/TRICAL
